@@ -1,4 +1,4 @@
-# MOSFET equations
+# MOSFET Equations
 
 ## $g_m$
 
